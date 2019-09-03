@@ -5,7 +5,7 @@ def show_main_page(request):
 
 
 def show_resume(request):
-    return render(request, 'resume/resume.html', {})
+    return render(request, 'resume/srt-resume.html', {})
 
 
 def show_certificates(request):
