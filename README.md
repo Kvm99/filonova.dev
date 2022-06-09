@@ -1,1 +1,1 @@
-My website first edition
+python manage.py runserver
